@@ -1,6 +1,6 @@
 # PAC4: Anàlisi Històrica de LaLiga (1995-2025)
 **Estudiant:** Sergi Cortacans  
-**Assignatura:** Programació per a la ciència de dades (22.503)  
+**Assignatura:** Programació per a la ciència de dades  
 **Universitat:** Universitat Oberta de Catalunya (UOC)  
 **Data:** Juny 2026  
 
